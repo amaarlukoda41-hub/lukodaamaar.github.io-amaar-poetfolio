@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lukoda Amaar</title>
+<style>
+body{font-family:Arial;text-align:center;background:#e6f0ff;padding:15px}
+.card{background:white;padding:25px;border-radius:16px;max-width:380px;margin:auto;box-shadow:0 5px 15px rgba(0,0,0,0.2)}
+h1{color:#0d5cb6}
+.btn{background:#0d5cb6;color:white;padding:12px 20px;border-radius:8px;text-decoration:none;display:inline-block;margin:5px;font-weight:bold}
+</style>
+</head>
+<body>
+<div class="card">
+<img src="https://i.pravatar.cc/150" style="width:120px;height:120px;border-radius:50%">
+<h1>LUKODA AMAAR</h1>
+<p><b>NC ICT Student | Buganda Royal Institute</b></p>
+<p>Buddo, Wakiso - Uganda</p>
+<p>Certified: Ndejje University Basic Computing 2023</p>
+<p>Skills: MS Word, Excel, PowerPoint, Internet, Web Development</p>
+<hr>
+<h3>My Services</h3>
+<p>Computer Repair<br>Website Design<br>Data Entry<br>Computer Training</p>
+<a class="btn" href="tel:0706011150">Call Me</a>
+<a class="btn" style="background:#25D366" href="https://wa.me/256701689440">WhatsApp</a>
+<br><br>
+<small>Buganda Royal Institute Mengo - 2027 Intake</small>
+</div>
+</body>
+</html>
